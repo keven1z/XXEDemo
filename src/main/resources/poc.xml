@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+        <!DOCTYPE example [
+                <!ELEMENT example ANY >
+                <!ENTITY file SYSTEM "http://localhost:10000" >
+                ]>
+<example>&file;</example>
